@@ -8,9 +8,6 @@ Este repositório contém todos os exercícios e projetos desenvolvidos durante 
 - **Plataforma**: Udemy
 - **Instrutor**: Luiz Otávio Miranda
 
-### 🛠️ PROJETOS/
-*Pasta reservada para projetos maiores (a ser desenvolvida)*
-
 ## 🎯 Objetivos do Curso
 - Dominar os fundamentos da programação Python
 - Desenvolver lógica de programação
@@ -44,7 +41,7 @@ python LOGICA_BASICA/1-basicos-dados.py
 
 ---
 
-*Este repositório é atualizado conforme o progresso no curso. Última atualização: Setembro 2025*
+*Este repositório é atualizado conforme o progresso no curso. Última atualização: Outubro 2025*
 
 ---
 ⭐ **Dica**: Pratique regularmente e não tenha medo de experimentar com o código!
