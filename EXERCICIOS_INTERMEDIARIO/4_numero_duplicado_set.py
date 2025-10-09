@@ -27,17 +27,17 @@ lista_de_listas_de_inteiros = [
 ]
 
 def encontrar_duplicatas(lista_inteiros):
-    for i in lista_inteiros:
+    for i in lista_inteiros:  # Percorre cada lista
         set_atual = set()
         duplicata = None
-        for j in i:
-            if j in set_atual:
+        for j in i:  # Percorre cada item na lista
+            if j in set_atual:  # Se já estiver no set duplicata encontrada, quebra e vai pro proximo
                 print(f'Duplicado encontrado = {j}')
                 duplicata = True
                 break
-            else:
+            else:  # Caso ainda não esteja, adiciona ao set
                 set_atual.add(j)
-        if duplicata == None:
+        if duplicata == None:  # Se o for não tiver encontrado nenhuma duplicata mostra -1
             print(f'Nenhuma duplicata = -1')
 
-encontrar_duplicatas(lista_de_listas_de_inteiros)
+encontrar_duplicatas(lista_de_listas_de_inteiros)  # Executa a função com a lista de listas que o usuario desejar

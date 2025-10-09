@@ -3,7 +3,7 @@
 Este repositório contém todos os exercícios e projetos desenvolvidos durante o curso de Python ministrado pelo professor **Luiz Otávio Miranda** na plataforma Udemy.
 
 ## 📊 Status do Curso
-- **Progresso atual**: 18% concluído
+- **Progresso atual**: 19% concluído
 - **Status**: Em andamento 🚧
 - **Plataforma**: Udemy
 - **Instrutor**: Luiz Otávio Miranda
